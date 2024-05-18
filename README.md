@@ -48,7 +48,9 @@ Tech Stack
 
 
 ## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=franckabdul&show_icons=true&theme=radical)
+
+![Franck Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franckabdul&show_icons=true&theme=radical)
+
 
 
 ## 🚀 Top Languages
