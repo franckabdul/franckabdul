@@ -48,16 +48,19 @@ Tech Stack
 
 
 ## 📊 GitHub Stats
+(https://github-readme-stats.vercel.app/api?username=franckabdul&show_icons=true&theme=radical)
 
-![Franck Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🚀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franckabdul&layout=compact&theme=radical)
+
+
 
 ## 🏆 GitHub Profile Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=franckabdul&theme=radical)
+
 
 Let's connect and collaborate! I’m always open to discussing new ideas, potential projects, or opportunities.
 
